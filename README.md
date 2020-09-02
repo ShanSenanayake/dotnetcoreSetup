@@ -6,10 +6,12 @@ Setting up a simple dotnet application
 
 
 **Frontend:**
-[] Add create react app to project.
-[] Test typscript setup for create react app.
 
-**Backend: ** 
-[] Serve frontend via backend.
-[] Dockerize setup. 
+* [ ] Add create react app to project.
+* [ ] Test typscript setup for create react app.
+
+**Backend:** 
+
+* [ ] Serve frontend via backend.
+* [ ] Dockerize setup. 
 
